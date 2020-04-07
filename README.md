@@ -16,3 +16,5 @@ If no other LICENSE is specified, models shared are under Creative Commons Attri
 # Disclaimer
 These files are provided “AS IS”, in an effort to help with the urgent need for this Item.  
 Users of this Item must determine the appropriateness and use of this Item, whether there are any federal or State regulatory requirements for use of this Item, and for informing other users of these responsibilities.
+
+Intended to be worn with PPE.
