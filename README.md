@@ -1,5 +1,5 @@
 # Overview
-This repository contains all the resources to be able to print a face shield with a 3D printer in order to help people fighting against the Covid-19.
+This repository contains all the resources to be able to print a face shield with a 3D printer in order to help people fighting against the [Covid-19](https://www.gouvernement.fr/info-coronavirus).
 
 # References
 
