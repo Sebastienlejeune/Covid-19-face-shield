@@ -27,10 +27,10 @@ It was designed by Philippe BAUER from Thales.
   * build time:
 
 **Assembly instructions**
-Needed equipment: a pair of scissors for rounding off corners of the visor
+* Needed equipment: a pair of scissors for rounding off corners of the visor
 
 **Packaging**
-Prints are immediately bagged after removal from the machine.
+* Prints are immediately bagged after removal from the machine.
 
 # References
 
