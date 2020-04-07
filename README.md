@@ -4,7 +4,8 @@ This repository contains all the resources to be able to print a face shield wit
 # Design
 
 It was designed by Philippe BAUER from Thales.
-(Photo)
+
+![Covid-19-face-shield_BAUER](https://github.com/Sebastienlejeune/Covid-19-face-shield/blob/master/images/Covid-19-face-shield_BAUER.jpeg)
 
 # Usage
 
