@@ -1,5 +1,5 @@
 # Overview
-Initial model : Face Shield Headband - Europe by nikon2uk on Thingiverse: https://www.thingiverse.com/thing:4257198
+Initial model : Face Shield Headband - Europe by FreeFaceShields on Thingiverse:: https://www.thingiverse.com/thing:4257198
 Model created by  https://www.youmagine.com/designs/protective-visor-by-3dverkstan
 
 ![faceShieldHeadBand-FR](images/faceShieldHeadBand-FR.jpg)
@@ -10,18 +10,22 @@ Model created by  https://www.youmagine.com/designs/protective-visor-by-3dverkst
 
 **Materials list**
 
-* Printed parts: 6 parts (1 frame, 2 flexible headbands, 2 clips, 1 buckle)
+* Printed parts: 1 part
 * Other part: 1 transparent visor (A-4 PETG plastic sheet)
 
 **Printing instructions**
-* Number of prints per build: 
-* Printer type: 
+* Number of prints per build: 1
+* Printer type: Tevo Tarantula
 * Print parameters:
-  * material: 
-  * nozzle diameter:
+  * material: PLA
+  * nozzle diameter: 0.4mm
   * speed: 
-  * layer height: 
-  * build time:
+    * External wall speed: 80mm/s
+    * Internal wall speed: 100mm/s
+    * Top/Bottom printing speed: 45mm/s
+  * layer height: 0.3mm
+  * Build Time given by Cura : 24min
+  * Real build time : 34min
 
 **Assembly instructions**
 Needed equipment: a pair of scissors for rounding off corners of the visor
