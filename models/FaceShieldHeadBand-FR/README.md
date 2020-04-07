@@ -24,7 +24,7 @@ Model created by  https://www.youmagine.com/designs/protective-visor-by-3dverkst
     * Internal wall speed: 100mm/s
     * Top/Bottom printing speed: 45mm/s
   * layer height: 0.3mm
-  * Build Time given by Cura : 24min
+  * Build Time given by Cura : 27min
   * Real build time : 34min
 
 **Assembly instructions**
