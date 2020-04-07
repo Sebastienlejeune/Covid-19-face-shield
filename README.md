@@ -1,11 +1,11 @@
 # Overview
-This repository contains all the resources to be able to print a face shield with a 3D printer in order to help people fighting against the Covid-19.
+This repository contains all the resources to be able to print a face shield with a 3D printer in order to help people fighting against the [Covid-19](https://www.gouvernement.fr/info-coronavirus).
 
 ![Covid-19-face-shield_BAUER](https://github.com/Sebastienlejeune/Covid-19-face-shield/blob/master/images/Covid-19-face-shield_BAUER.jpeg)
 
 # Design
 
-It was designed by Philippe BAUER from Thales.
+It was designed by Philippe BAUER from [Thales](https://www.thalesgroup.com/).
 
 ![Covid-19-face-shield_design_BAUER](https://github.com/Sebastienlejeune/Covid-19-face-shield/blob/master/images/Covid-19-face-shield_design_BAUER.png)
 
@@ -27,7 +27,7 @@ It was designed by Philippe BAUER from Thales.
   * build time:
 
 **Assembly instructions**
-* Needed equipment: a pair of scissors for rounding off corners of the visor
+* Needed equipment: a pair of scissors for rounding off corners of the visor.
 
 **Packaging**
 * Prints are immediately bagged after removal from the machine.
