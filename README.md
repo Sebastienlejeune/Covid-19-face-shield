@@ -2,7 +2,7 @@
 This repository contains all the resources to be able to print a face shield with a 3D printer in order to help people fighting against the [Covid-19](https://www.gouvernement.fr/info-coronavirus).
 
 # References
-
+* Sanitary recommendations from [3d4care](http://www.3d4care.org/) : http://www.3d4care.com/document/3D4Care_decontamination_v4-5.pdf
 * Cleaning instructions: https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457
 * Makers community : https://getusppe.org/makers
 
