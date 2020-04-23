@@ -1,5 +1,5 @@
 # Overview
-Initial model : Face Shield Headband - Europe by FreeFaceShields on Thingiverse:: https://www.thingiverse.com/thing:4257198
+Initial model : Face Shield Headband - Europe by FreeFaceShields on Thingiverse: https://www.thingiverse.com/thing:4257198
 Model created by  https://www.youmagine.com/designs/protective-visor-by-3dverkstan
 
 ![faceShieldHeadBand-FR](images/faceShieldHeadBand-FR.jpg)
