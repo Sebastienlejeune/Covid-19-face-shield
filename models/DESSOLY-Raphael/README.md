@@ -16,7 +16,7 @@ Model created by https://www.thingiverse.com/_Alexis_/about
 ![printingProfile](images/printingProfile.jpg)
 
 **Assembly instructions**
-Needed equipment: *to be completed*
+Follow the [tutorial](docs/Tutorial.pdf)
 
 # Contact
 * raphael.dessoly@thalesgroup.com
