@@ -9,7 +9,7 @@ This repository contains all the resources to be able to print a face shield wit
 # Contacts
 * philippe.bauer@thalesgroup.com ([models/BAUER-Philippe](models/BAUER-Philippe))
 * yann.mathe@thalesgroup.com ([models/FaceShieldHeadBand-FR](models/FaceShieldHeadBand-FR))
-* raphael.dessoly@thalesgroup.com ([models/DESSOLY-Raphael](models/DESSOLY-Raphael))  
+* raphael.dessoly@junghans-defence.com or raphael.dessoly@gmail.com ([models/DESSOLY-Raphael](models/DESSOLY-Raphael))  
 
 # License
 If no other LICENSE is specified, models shared are under Creative Commons Attribution-NonCommercial 3.0 Unported, see https://creativecommons.org/.
