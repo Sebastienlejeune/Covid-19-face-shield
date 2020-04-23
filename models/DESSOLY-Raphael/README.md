@@ -1,5 +1,6 @@
 # Overview
 Initial model : Shield SARS-CoV-2 - Covid-19 - visieresolidaire (Yann Vodable - FDO) on Thingiverse: https://www.thingiverse.com/thing:4260128
+
 Model created by https://www.thingiverse.com/_Alexis_/about
 
 ![result1](images/result1.jpg)
